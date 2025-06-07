@@ -30,7 +30,7 @@ Many people struggle to track their income and expenses in a structured way, mak
 1. **Clone the repository** (or save the project files):
 
    ```bash
-   git clone https://github.com/mrndkhrnnsa/PersonalFinanceAssistance.git
+   git clone https://github.com/mrndkhrnnsa/PersonalFinanceAssistance_EN.git
    ```
 
 2. **Install dependencies:**
