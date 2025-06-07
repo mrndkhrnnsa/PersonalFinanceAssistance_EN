@@ -1,8 +1,8 @@
 ## Personal Finance Assistant
 
 **A Streamlit-based personal finance management application**
-
-*This is the english version of the Personal Finance Assistance app, submitted as the final requirement for the AI Python Bootcamp at Skill Academy by Ruangguru.)*
+---
+(This is the english version of the Personal Finance Assistance app, submitted as the final requirement for the AI Python Bootcamp at Skill Academy by Ruangguru.)
 ---
 
 ### 📝 **Description:**
