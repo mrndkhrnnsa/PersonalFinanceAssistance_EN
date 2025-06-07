@@ -23,7 +23,7 @@ Many people struggle to track their income and expenses in a structured way, mak
 
 ### **Try the App**
 
-You can try the streamlit app here: https://personal-finance-assistance.streamlit.app/Input_Transaksi
+You can try the streamlit app here: https://personalfinanceassistance-en.streamlit.app
 
 ### ⚙️ **How to Run Locally**
 
