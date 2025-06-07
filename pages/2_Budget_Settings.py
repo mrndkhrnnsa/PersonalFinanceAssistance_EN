@@ -52,7 +52,7 @@ if st.button("Generate AI Budget"):
         headers = {
             "Authorization": f"Bearer {api_key}",
             "Content-Type": "application/json",
-            "HTTP-Referer": "https://personal-finance-assistance.streamlit.app"
+            "HTTP-Referer": "https://personalfinanceassistance-en.streamlit.app"
         }
         data = {
             "model": 'deepseek/deepseek-chat-v3-0324',
