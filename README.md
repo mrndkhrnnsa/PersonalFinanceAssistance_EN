@@ -1,7 +1,8 @@
 ## Personal Finance Assistant
 
 **A Streamlit-based personal finance management application**
-*This is the english version of the Personal Finance Assistance app, submitted as the final requirement for the AI Python Bootcamp at Skill Academy by Ruangguru.)
+
+*This is the english version of the Personal Finance Assistance app, submitted as the final requirement for the AI Python Bootcamp at Skill Academy by Ruangguru.)*
 ---
 
 ### 📝 **Description:**
@@ -24,6 +25,9 @@ Many people struggle to track their income and expenses in a structured way, mak
 4. **Financial Analysis** – Graphical visualization to monitor income, expenses, and monthly balance.
 
 ---
+### **Try the App**
+
+You can try the streamlit app here: https://personal-finance-assistance.streamlit.app/Input_Transaksi
 
 ### ⚙️ **How to Run Locally**
 
